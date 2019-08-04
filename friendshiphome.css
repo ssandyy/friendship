@@ -13,12 +13,11 @@ body {
   top: 15vh;
   padding: 40px;
   background: linear-gradient(to bottom, #020333 );
-  background-image: url('ssandyyy.jpg');
+  background-image: url('');
   border-radius: 5px;
   width: 500px;
   height: 250px;
   margin: auto;
-  #backface-visibility: hidden;
   display: flex;
   box-shadow: 0 0 5px rgba(0, 0, 0, 1.1);
   position: relative;
